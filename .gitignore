@@ -1,0 +1,4 @@
+.idea/
+/public/file/
+/.env.local
+/test.db

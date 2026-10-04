@@ -1,0 +1,6 @@
+2 E
+0 AAA
+1 BBBB
+1 BBBB
+4 Q
+0 XXX

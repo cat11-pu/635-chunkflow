@@ -1,0 +1,7 @@
+4 EE
+0 AAAA
+0 ZZZZ
+1 BBBB
+4 EE
+9 QQQQ
+x WWWW
